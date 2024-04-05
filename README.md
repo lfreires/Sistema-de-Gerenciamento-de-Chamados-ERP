@@ -1,10 +1,10 @@
 # Sistema-de-Gerenciamento-de-Chamados-ERP
 Projeto da disciplina de POO na Universidade Presbiteriana Mackenzie
 
-Este projeto tem como objetivo desenvolver um sistema robusto e eficiente para gerenciar chamados de manutenção, dúvidas, relatórios de erros, bugs e outras solicitações referentes ao ERP (Enterprise Resource Planning) da empresa. Como parte integrante da equipe de TI, estamos encarregados deste projeto crítico que será a espinha dorsal para assegurar o funcionamento diário e estratégico de todos os departamentos da empresa.
+Este projeto tem como objetivo desenvolver um sistema robusto e eficiente para gerenciar chamados de manutenção, dúvidas, relatórios de erros, bugs e outras solicitações referentes ao ERP (Enterprise Resource Planning) da empresa.
 
 ## Objetivo
-O principal objetivo deste sistema de gerenciamento de chamados é garantir que todas as questões técnicas ou dúvidas relacionadas ao ERP sejam tratadas de forma ágil e eficaz, assegurando a continuidade dos processos empresariais sem maiores interrupções. Ele não apenas catalogará e organizará os chamados de forma eficiente, mas também proverá aos atendentes e técnicos as ferramentas necessárias para uma gestão eficaz desses chamados, garantindo que todos os problemas sejam resolvidos dentro do Acordo de Nível de Serviço (SLA - Service Level Agreement) estabelecido.
+O principal objetivo deste sistema de gerenciamento de chamados é garantir que ele não apenas catalogará e organizará os chamados de forma eficiente, mas também proverá aos atendentes e técnicos as ferramentas necessárias para uma gestão eficaz desses chamados, garantindo que todos os problemas sejam resolvidos dentro do Acordo de Nível de Serviço (SLA - Service Level Agreement) estabelecido.
 
 ## Divisão do Projeto
 O projeto será dividido em várias etapas, cada uma focando em aspectos diferentes do sistema, tais como:
